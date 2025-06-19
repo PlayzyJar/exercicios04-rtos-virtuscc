@@ -1,3 +1,41 @@
+# STM32CubeIDE
+.metadata/
+.settings/
+.cproject
+.project
+.mxproject
+Debug/
+Release/
+**/Debug/
+**/Release/
+
+# Build artifacts
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.d
+*.su
+
+# IDE files
+.launches/
+.settings/
+.cproject
+.project
+
+# OS files
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+*~
+
+# Backup files
+*.bak
+*.orig
+
 # Prerequisites
 *.d
 
