@@ -13,4 +13,4 @@ O que mudaria com o mutex? No mutex ou semáforo de exclusão mútua, não é po
 
 ## Imagens
 
-![Comportamento](images/img-exercicio-03.jpeg)
+![Comportamento](../images/img-exercicio-03.jpeg)

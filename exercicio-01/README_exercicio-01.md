@@ -11,4 +11,4 @@ R: Coloquei três tarefas de prioridades iguais, o que ocorre é que a primeira 
 
 ## Imagens
 
-![Comportamento](images/img-exercicio-01.jpeg)
+![Comportamento](../images/img-exercicio-01.jpeg)

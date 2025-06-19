@@ -11,4 +11,4 @@ R: Tive algumas complicaçõezinhas na hora de sincronizar tudo, mas no geral fo
 
 ## Imagens
 
-![Comportamento](images/img-exercicio-05.jpeg)
+![Comportamento](../images/img-exercicio-05.jpeg)

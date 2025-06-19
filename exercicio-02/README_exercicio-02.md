@@ -11,4 +11,4 @@ R: Desta vez, montei um cenário semelhante ao anterior, com diferença que colo
 
 ## Imagens
 
-![Comportamento](images/img-exercicio-02.jpeg)
+![Comportamento](../images/img-exercicio-02.jpeg)

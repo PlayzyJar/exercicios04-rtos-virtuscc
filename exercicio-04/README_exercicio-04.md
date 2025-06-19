@@ -13,4 +13,4 @@ Perceba que nem pelo Debug é possível ver a alteração do valor da variável,
 
 ## Imagens
 
-![Comportamento](images/img-exercicio-04.jpeg)
+![Comportamento](../images/img-exercicio-04.jpeg)

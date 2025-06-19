@@ -13,4 +13,4 @@ Perceba que os valores lidos são em volts, retirados de um potenciômetro e con
 
 ## Imagens
 
-![Comportamento](images/img-exercicio-06.jpeg)
+![Comportamento](../images/img-exercicio-06.jpeg)
